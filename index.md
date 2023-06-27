@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CS 370 Demonstrations
+title: Demonstrations for CS 770 / CM 770 / AMATH 740
 ---
 
 Unit 1: Floating-Point Numbers
