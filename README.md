@@ -1,1 +1,1 @@
-# cs370.github.io
+# cs770.github.io
