@@ -1,45 +1,40 @@
 ---
 layout: default
-title: CS 770 / CM 770 / AMATH 740 Demonstrations
+title: CS 770 / CM 770 / AMATH 740
 ---
 
+# Introduction
+
+Please sign up for the course on [Piazza](https://piazza.com/uwaterloo.ca/fall2023/cs770cm770amath740){:target="_blank"}.
+
+# Demonstrations
+
 Unit 1: Floating-Point Numbers
-- [Rounding Error Demo](/floating_point/problem_demo.html)
-- [IEEE Floating-Point](/floating_point/IEEE_FP_standard.html)
 <!---
+[Rounding Error Demo](/floating_point/problem_demo.html)
+[IEEE Floating-Point](/floating_point/IEEE_FP_standard.html)
 --->
 
-Unit 2: Linear Algebra
-- [Random Web Surfer Demos](/linear_algebra/Randy_demos.html)
-- [Gershgorin Circles](/linear_algebra/Gershgorin_demo.html)
-- [Power Iteration (end of LA-02)](/linear_algebra/power_iteration.html)
-- [Matrix Norms and Condition Number](/linear_algebra/induced_norms.html)
-- [PCA Demo (SVD)](/linear_algebra/PCA Demo-plotly.html)
-<!---
-[LU Demo](/linear_algebra/LU_Demo.html)
---->
+Unit 2: Rootfinding
 
 Unit 3: Ordinary Differential Equations
-- [Euler's Method](/ODEs/Euler_demo.html)
-- [Python's ODE Suite](/ODEs/ode_suite_demos.html)
 <!---
+[Euler's Method](/ODEs/Euler_demo.html)
+[Python's ODE Suite](/ODEs/ode_suite_demos.html)
 [Quiver Plot](/ODEs/quiver_plot.html)
 [Local vs Global Error Demo (py)](/ODEs/Euler_error_demo.py)
 [3rd-Order Runge-Kutta (py)](/ODEs/rk3.py)
 [Novelty Golf Animations (py)](/ODEs/anim_golf.py)
 --->
 
-Unit 4: Interpolation
-- [Vandermonde System](/interpolation/Vandermonde.html)
-- [Lagrange Demo](/interpolation/Lagrange_demo.html)
-- [Python's Splines](/interpolation/simple_spline.html)
-- [Parametric Curve Demo](/interpolation/curve_demo.html)
+Unit 4: LU and QR Decomposition
 <!---
-[Crawling Bug Demo (py)](/interpolation/crawling_bug_demo.py)
-[Bezier Curves](/interpolation/Bezier.html)
+[Vandermonde System](/interpolation/Vandermonde.html)
 --->
 
-Unit 5: Fourier Theory
+Unit 5: Iterative Methods for Linear Systems
+
+Unit 6: Fourier Theory
 <!---
 [Fourier Series](/Fourier/Fourier_series_demo.html)
 [Orthogonality, DFT Matrix](/Fourier/DFT_matrix.html)
@@ -51,7 +46,7 @@ Unit 5: Fourier Theory
 [FFT Speed](/Fourier/speed_of_FFT.html)
 --->
 
-Unit 6: Least Squares
+Unit 7: Eigenvectors and Eigenvalues
 <!---
 [LS Demos](least_squares/ls_demo.html)
 [Gradient Descent](least_squares/Gradient_descent.html)
