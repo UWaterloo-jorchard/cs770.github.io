@@ -16,6 +16,7 @@ Unit 1: Floating-Point Numbers
 --->
 
 Unit 2: Rootfinding
+- [Rootfinding](/rootfinding/RootFinding.html)
 
 Unit 3: Ordinary Differential Equations
 <!---
