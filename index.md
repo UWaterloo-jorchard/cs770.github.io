@@ -19,8 +19,8 @@ Unit 2: Rootfinding
 - [Rootfinding](/rootfinding/RootFinding.html)
 
 Unit 3: Ordinary Differential Equations
+- [Euler's Method](/ODEs/Euler_demo.html)
 <!---
-[Euler's Method](/ODEs/Euler_demo.html)
 [Python's ODE Suite](/ODEs/ode_suite_demos.html)
 [Quiver Plot](/ODEs/quiver_plot.html)
 [Local vs Global Error Demo (py)](/ODEs/Euler_error_demo.py)
