@@ -4,7 +4,7 @@ from matplotlib.pyplot import plot, xlabel, ylabel, title, axis, ion, figure, cl
 ion()
 
 # Can change these 2 lines
-method = 2 # 1 or 2
+method = 1 # 1 or 2
 de = 1 # 1 or 2
 
 y0 = 2
@@ -48,21 +48,21 @@ axis(axis_limits)
 # Plot a whole bunch of solutions
 mygray = [0.8, 0.8, 0.8]
 for a in np.arange(-2, 7, 0.2):
-    plot(tt, soln(tt, t0, a), color=mygray, linewidth=1)
+    plot(tt, soln(tt, t0, a), color=mygray, lw=1)
 
 #figure(1, figsize=[18,18])
-plot(tt,yy, 'b', lineWidth=3)
+plot(tt,yy, 'b', lw=3)
 draw()
 
 input('Hit return')
 
 k1 = h * my_de(t0,y0)
-plot([t0, t0+h], [y0, y0+k1], 'g',lineWidth=2)
+plot([t0, t0+h], [y0, y0+k1], 'g',lw=2)
 draw()
 input('Hit return')
 
 k2 = h * my_de(t0+h*c2, y0+k1*a21)
-plot([t0+h*c2, t0+h], [y0+k1*a21, y0+k1*a21+k2*(1-a21)], 'r', lineWidth=2)
+plot([t0+h*c2, t0+h], [y0+k1*a21, y0+k1*a21+k2*(1-a21)], 'r', lw=2)
 draw()
 input('Hit return')
 
@@ -74,14 +74,14 @@ axis(axis_limits)
 # Solutions
 for a in np.arange(-2, 7, 0.2):
     plot(tt, soln(tt, t0, a), color=mygray)
-plot(tt,yy, 'b', lineWidth=3)
-plot([t0, t0+h], [y0, y0+k1], 'g', lineWidth=2)
-plot([t0, t0+h], [y0, y0+k2], 'g', lineWidth=2)
+plot(tt,yy, 'b', lw=3)
+plot([t0, t0+h], [y0, y0+k1], 'g', lw=2)
+plot([t0, t0+h], [y0, y0+k2], 'g', lw=2)
 draw()
 input('Hit return')
 
 k3 = h * my_de(t0+h*c3, y0+k1*a31+k2*a32)
-plot([t0+h*c3, t0+h], [y0+k1*a31+k2*a32, y0+k1*a31+k2*a32+k3*(1-a31-a32)], 'r',lineWidth=2)
+plot([t0+h*c3, t0+h], [y0+k1*a31+k2*a32, y0+k1*a31+k2*a32+k3*(1-a31-a32)], 'r',lw=2)
 draw()
 input('Hit return')
 
@@ -92,16 +92,18 @@ axis(axis_limits)
 # Plot a whole bunch of solutions
 for a in np.arange(-2, 7, 0.2):
     plot(tt, soln(tt, t0, a), color=mygray)
-plot(tt,yy, 'b', lineWidth=3)
-plot([t0, t0+h], [y0, y0+k1],'g',lineWidth=2)
-plot([t0, t0+h], [y0, y0+k2],'g',lineWidth=2)
-plot([t0, t0+h], [y0, y0+k3],'g',lineWidth=2)
+plot(tt,yy, 'b', lw=3)
+plot([t0, t0+h], [y0, y0+k1],'g',lw=2)
+plot([t0, t0+h], [y0, y0+k2],'g',lw=2)
+plot([t0, t0+h], [y0, y0+k3],'g',lw=2)
 draw()
 input('Hit return')
 
 y = y0 + k1*w1 + k2*w2 + k3*w3
 
-plot([t0, t0+h], [y0, y],'ko', markersize=10)
+plot([t0, t0+h], [y0, y],'ko', ms=10)
+
+input('Hit return')
 
 
 

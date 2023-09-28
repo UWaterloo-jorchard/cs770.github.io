@@ -3,7 +3,7 @@ from matplotlib.pyplot import ion, plot, axis, figure, xlabel, ylabel, title, le
 ion()
 
 # Can change this line
-de = 2 # 1 or 2 or 3
+de = 2 # 1 (diverging) or 2 (converging) or 3 (slightly diverging)
 auto_pause = False    # 0 to control with buttons, 1 for auto
 
 y0 = 2
@@ -73,7 +73,7 @@ else:
 for n in range(steps):
     
     # Plot current solution curve
-    plot(tt,soln(tt,tc,yc), color=c1, lineWidth=lw)
+    plot(tt,soln(tt,tc,yc), color=c1, lw=lw)
     draw()
     if auto_pause:
         pause(0.05)
@@ -84,13 +84,13 @@ for n in range(steps):
     F = my_de(tc, yc)
     ynext = yc + h*F
     ynext_true = soln(tc+h,tc,yc)
-    plot([tc, tc+h], [yc, ynext], color=c2, lineWidth=2)
+    plot([tc, tc+h], [yc, ynext], color=c2, lw=2)
     draw()
     if auto_pause:
         pause(0.05)
     else:
         input('Hit Enter')
-    plot([tc+h, tc+h], [ynext, ynext_true],'r', lineWidth=2)
+    plot([tc+h, tc+h], [ynext, ynext_true],'r', lw=2)
     draw()
 
     yEuler.append(ynext)
@@ -104,7 +104,7 @@ for n in range(steps):
     else:
         input('Hit Enter')
 
-plot(tEuler, yEuler, 'k.', markersize=ms)
+plot(tEuler, yEuler, 'k.', ms=ms)
 
 
 
