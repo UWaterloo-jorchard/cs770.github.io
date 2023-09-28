@@ -20,11 +20,11 @@ Unit 2: Rootfinding
 
 Unit 3: Ordinary Differential Equations
 - [Euler's Method](/ODEs/Euler_demo.html)
+- [Local vs Global Error Demo (.py script)](/ODEs/Euler_error_demo.py)
+- [3rd-Order Runge-Kutta (.py script)](/ODEs/rk3.py)
 <!---
 [Python's ODE Suite](/ODEs/ode_suite_demos.html)
 [Quiver Plot](/ODEs/quiver_plot.html)
-[Local vs Global Error Demo (py)](/ODEs/Euler_error_demo.py)
-[3rd-Order Runge-Kutta (py)](/ODEs/rk3.py)
 [Novelty Golf Animations (py)](/ODEs/anim_golf.py)
 --->
 
