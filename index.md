@@ -29,6 +29,7 @@ Unit 3: Ordinary Differential Equations
 --->
 
 Unit 4: LU and QR Decomposition
+- [Induced Matrix Norms](/linear_algebra/induced_norms.html)
 <!---
 [Vandermonde System](/interpolation/Vandermonde.html)
 --->
