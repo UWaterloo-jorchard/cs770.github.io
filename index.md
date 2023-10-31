@@ -28,8 +28,11 @@ Unit 3: Ordinary Differential Equations
 [Novelty Golf Animations (py)](/ODEs/anim_golf.py)
 --->
 
-Unit 4: LU and QR Decomposition
+Unit 4: Algebraic Methods for Linear Algebra
 - [Induced Matrix Norms](/linear_algebra/induced_norms.html)
+- [LU and QR Factorization](/linear_algebra/LU_QR_demos.html)
+- [Least Squares](/linear_algebra/ls_demo.html)
+- [Singular Value Decomposition (SVD)](/linear_algebra/SVD demos.html)
 <!---
 [Vandermonde System](/interpolation/Vandermonde.html)
 --->
