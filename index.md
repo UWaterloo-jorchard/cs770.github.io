@@ -42,8 +42,8 @@ Unit 5: Iterative Methods for Linear Systems
 - [Jacobi Iteration](/linear_algebra/Jacobi.html)
 
 Unit 6: Fourier Theory
+- [Fourier Series](/Fourier/Fourier_series_demo.html)
 <!---
-[Fourier Series](/Fourier/Fourier_series_demo.html)
 [Orthogonality, DFT Matrix](/Fourier/DFT_matrix.html)
 [Aliasing Demo](/Fourier/Aliasing_demo.html)
 [Audio Filtering](/Fourier/Fourier_audio_demos.html)
