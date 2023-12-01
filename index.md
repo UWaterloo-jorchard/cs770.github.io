@@ -55,6 +55,7 @@ Unit 6: Fourier Theory
 --->
 
 Unit 7: Eigenvectors and Eigenvalues
+- [Eigenvector Demos](eigen/eigen_demos.html)
 <!---
 [LS Demos](least_squares/ls_demo.html)
 [Gradient Descent](least_squares/Gradient_descent.html)
