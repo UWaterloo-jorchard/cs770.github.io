@@ -5,7 +5,8 @@ title: CS 770 / CM 770 / AMATH 740
 
 # Introduction
 
-Please sign up for the course on [Piazza](https://piazza.com/uwaterloo.ca/fall2023/cs770cm770amath740){:target="_blank"}.
+Please sign up for the course on Piazza.
+<!-- [Piazza](https://piazza.com/uwaterloo.ca/fall2023/cs770cm770amath740){:target="_blank"}. -->
 
 # Demonstrations
 
