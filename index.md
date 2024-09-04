@@ -5,8 +5,7 @@ title: CS 770 / CM 770 / AMATH 740
 
 # Introduction
 
-Please sign up for the course on Piazza.
-<!-- [Piazza](https://piazza.com/uwaterloo.ca/fall2023/cs770cm770amath740){:target="_blank"}. -->
+Please sign up for the course on [Piazza](https://piazza.com/uwaterloo.ca/fall2024/cs770cm770amath740){:target="_blank"}.
 
 # Demonstrations
 
@@ -59,7 +58,7 @@ Unit 6: Fourier Theory
 [FFT Speed](/Fourier/speed_of_FFT.html)
 --->
 
-Unit 7: Eigenvectors and Eigenvalues
+Unit 7: Neural Networks
 <!---
 [Eigenvector Demos](eigen/eigen_demos.html)
 [LS Demos](least_squares/ls_demo.html)
