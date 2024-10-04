@@ -30,8 +30,8 @@ Unit 3: Ordinary Differential Equations
 --->
 
 Unit 4: Algebraic Methods for Linear Algebra
+- [Induced Matrix Norms](/linear_algebra/induced_norms.html)
 <!---
-[Induced Matrix Norms](/linear_algebra/induced_norms.html)
 [LU and QR Factorization](/linear_algebra/LU_QR_demos.html)
 [Least Squares](/linear_algebra/ls_demo.html)
 [Singular Value Decomposition (SVD)](/linear_algebra/SVD_demos.html)
