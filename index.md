@@ -39,8 +39,8 @@ Unit 4: Algebraic Methods for Linear Algebra
 --->
 
 Unit 5: Iterative Methods for Linear Systems
+- [Gershgorin Circle Theorem](/linear_algebra/Gershgorin_demo.html)
 <!---
-[Gershgorin Circle Theorem](/linear_algebra/Gershgorin_demo.html)
 [Jacobi Iteration](/linear_algebra/Jacobi.html)
 --->
 
