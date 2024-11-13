@@ -45,9 +45,9 @@ Unit 5: Iterative Methods for Linear Systems
 --->
 
 Unit 6: Fourier Theory
+- [Fourier Series](/Fourier/Fourier_series_demo.html)
+- [Orthogonality, DFT Matrix](/Fourier/DFT_matrix.html)
 <!---
-[Fourier Series](/Fourier/Fourier_series_demo.html)
-[Orthogonality, DFT Matrix](/Fourier/DFT_matrix.html)
 [Fourier Compression](/Fourier/Compression_Demo.html)
 [2D Fourier Transforms](/Fourier/2D_Fourier_Transforms.html)
 [Audio Filtering](/Fourier/Fourier_audio_demos.html)
