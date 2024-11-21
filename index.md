@@ -50,8 +50,9 @@ Unit 6: Fourier Theory
 - [2D Fourier Transforms](/Fourier/2D_Fourier_Transforms.html)
 - [Fourier Compression](/Fourier/Compression_Demo.html)
 - [Aliasing Demo](/Fourier/Aliasing_demo.html)
+- [Audio Filtering](/Fourier/Fourier_audio_demos.html)
+- [Short-Time Fourier Transform](/Fourier/audio_encode.html)
 <!---
-[Audio Filtering](/Fourier/Fourier_audio_demos.html)
 [Demo of many Fourier properties](/Fourier/Fourier_Demos.html)
 [Recursive DFT](/Fourier/recursive_FFT.html)
 [FFT Speed](/Fourier/speed_of_FFT.html)
