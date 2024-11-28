@@ -59,9 +59,9 @@ Unit 6: Fourier Theory
 --->
 
 Unit 7: Neural Networks
+- [Universal Approximation Theorem](Neural_Nets/Universal\ Approx.html)
+- [Classification Demo](Neural_Nets/classification_demo.html)
+- [PyTorch Demo](Neural_Nets/PyTorch.html)
 <!---
-[Eigenvector Demos](eigen/eigen_demos.html)
-[LS Demos](least_squares/ls_demo.html)
-[Gradient Descent](least_squares/Gradient_descent.html)
 [Neural Learning by Gradient Descent](least_squares/NeuralLearning.html)
 --->
