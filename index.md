@@ -59,7 +59,7 @@ Unit 6: Fourier Theory
 --->
 
 Unit 7: Neural Networks
-- [Universal Approximation Theorem]("Neural_Nets/Universal Approx.html")
+- [Universal Approximation Theorem](Neural_Nets/Universal_Approx.html)
 - [Classification Demo](Neural_Nets/classification_demo.html)
 - [PyTorch Demo](Neural_Nets/PyTorch.html)
 <!---
